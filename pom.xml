@@ -68,7 +68,7 @@
     <asyncServletVersion>3.0.19.Final</asyncServletVersion>
     <undertowVersion>2.2.27.Final</undertowVersion>
     <xnioVersion>3.8.2.Final</xnioVersion>
-    <keycloakVersion>17.0.1</keycloakVersion>
+    <keycloakVersion>25.0.4</keycloakVersion>
     <bouncycastleVersion>1.70</bouncycastleVersion>
     <bytemanVersion>4.0.20</bytemanVersion>
     <kafkaVersion>3.1.1</kafkaVersion>
