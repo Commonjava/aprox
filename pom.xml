@@ -60,7 +60,7 @@
     <!-- thirdparty projects -->
     <javaVersion>11</javaVersion>
     <infinispanVersion>9.4.24.Final</infinispanVersion>
-    <protostreamVersion>4.3.0.Final</protostreamVersion>
+    <protostreamVersion>4.6.2.Final</protostreamVersion>
     <gsonVersion>2.9.1</gsonVersion>
     <hibernateVersion>5.10.13.Final</hibernateVersion>
     <resteasyVersion>3.0.12.Final</resteasyVersion>
